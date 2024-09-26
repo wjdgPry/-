@@ -1,6 +1,7 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=wjdgPry%20Github!&fontSize=85" />	
 </div>
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=wjdgPry%EC%9D%98%20Github!">
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
