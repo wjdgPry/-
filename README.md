@@ -1,6 +1,7 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=wjdgPry%20Github!&fontSize=90" />	
 </div>
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨  ✨</p>
@@ -22,5 +23,9 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 
 
